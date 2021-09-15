@@ -1,0 +1,4 @@
+rootProject.name = "GapScanner"
+include ':app'
+include ':GapScannerLibrary'
+project(':GapScannerLibrary').projectDir = new File('/Users/echoy/AndroidStudioProjects/GapScannerLibrary/GapScannerLibrary')
