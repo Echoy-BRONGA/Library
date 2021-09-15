@@ -7,7 +7,7 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.gap.gapscannerlibrary.TestItem
 
-class SampleApp : AppCompatActivity() {
+class GapScannerAndroidApp : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.sample_app)
